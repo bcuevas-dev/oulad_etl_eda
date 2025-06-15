@@ -8,7 +8,7 @@ DB_CONFIG = {
     'user': 'root',
     'password': 'A.123456',
     'host': 'localhost',
-    'database': 'oulad_db2'
+    'database': 'oulad_db'
 }
 
 # Cadena de conexión SQLAlchemy (para usar en EDA con create_engine)
